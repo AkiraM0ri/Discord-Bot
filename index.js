@@ -1,6 +1,6 @@
 const Discord = require('discord.js');
 const bot = new Discord.Client();
-const token = 'OTIwMDE1MTM0MDIwMjM1Mzc0.YbeM3Q.mJ2NBNMtGqZmJ-Ry70nyoCSfgu8';
+const token = '';
 const { MessageAttachment } = require("discord.js");
 const imagemBot = new MessageAttachment("./eva.jpeg");
 const audioMarcola = new MessageAttachment("./marcola_idiota.wav"); 
